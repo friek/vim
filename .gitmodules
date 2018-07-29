@@ -16,3 +16,6 @@
 [submodule "bundle/ansible-yaml"]
 	path = bundle/ansible-yaml
 	url = git://github.com/chase/vim-ansible-yaml.git
+[submodule "bundle/vim-yaml"]
+	path = bundle/vim-yaml
+	url = https://github.com/avakhov/vim-yaml
